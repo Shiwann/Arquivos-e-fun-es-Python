@@ -1,2 +1,2 @@
-# Arquivos-e-fun-es-Python
+# Arquivos-e-funcoes -Python
 Exercícios  realizados em aula.
